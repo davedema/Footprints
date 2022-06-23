@@ -10,9 +10,12 @@
 <li> <b>Grey Water Footprint</b> - refers to the freshwater required to dilute pollution (e.g., farm runoff) and bring the water resource up to safe water quality standards.
 </ul>
 
-# Repo Informations
+# Water Footprints
 ## Green blue grey water footprint for selected countries
 A table extracted from <i>Mekonnen and Hoekstra (2010)</i>[^2] containing "The green, blue and grey water footprint of selected animal products for selected countries (m3 /ton)"
+
+## Water footprint of a beef cow and its derived products
+A table extracted from <i>Mekonnen and Hoekstra (2010)</i>[^2] containing "The green, blue and grey water footprint of beef cow and its derived products"
 
 
 [^1]: Water Footprint Calculator - <a href="https://www.watercalculator.org/footprint/rainwater-green-water-footprint/"><i>The Value of Rainwater: Why Green Water Footprints Matter</i></a>
