@@ -16,4 +16,5 @@
 
 
 ### References
-1) Water Footprint Calculator - <a href=https://www.watercalculator.org/footprint/rainwater-green-water-footprint/><i>The Value of Rainwater: Why Green Water Footprints Matter</i></a>
+1) Water Footprint Calculator - <a href="https://www.watercalculator.org/footprint/rainwater-green-water-footprint/"><i>The Value of Rainwater: Why Green Water Footprints Matter</i></a>
+2) Mekonnen and Hoekstra (2010) - <a href="https://waterfootprint.org/media/downloads/Report-48-WaterFootprint-AnimalProducts-Vol1_1.pdf"><i>The green, blue and grey water footprint of farm animals and animal products</i></a>
